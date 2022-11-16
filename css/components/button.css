@@ -1,0 +1,12 @@
+.btn-color {
+	background-color: lightsteelblue;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+.btn-color :hover {
+	background-color: aliceblue;
+	color: white;
+}
